@@ -46,7 +46,7 @@
     }
     .john {
         background-color: rgba(0, 0, 0, 0.93);
-        background-image: url(/img/mobile.png);
+        background-image: url(../img/mobile.png);
         background-repeat: no-repeat;
         background-size: 100%;
     }
@@ -191,7 +191,6 @@
             .box a{
                 width: 25%;
                 padding-right: 1rem;
-                
             }
             .button{
                width: 80%;
