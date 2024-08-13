@@ -319,7 +319,6 @@ top: 0;
         float: left;
         width:93%;
         height: 59.375rem;
-        border: 1px solid white;
         position: relative;
         margin-left: 5%;
         margin-top: 1.5%;
@@ -328,7 +327,6 @@ top: 0;
         float: left;
         width: 55%;
         height: 28.75rem;
-        border: 1px solid white;
     }
     .img1 img{
         width: 100%;
@@ -340,7 +338,6 @@ top: 0;
         margin-left: 0.5%;
         width: 22%;
         height: 14.0625rem;
-        border: 1px solid white;
     }
     .img2 img{
         width: 100%;
@@ -352,7 +349,6 @@ top: 0;
         margin-left: 0.5%;
         width: 21.74%;
         height: 14.0625rem;
-        border: 1px solid white;
     }
     .img3 img{
         width: 100%;
@@ -365,7 +361,6 @@ top: 0;
         width: 22%;
         margin-top: 0.5%;
         height: 14.0625rem;
-        border: 1px solid white;
     }
     .img4 img{
         width: 100%;
@@ -378,7 +373,6 @@ top: 0;
         width: 21.74%;
         margin-top: 0.5%;
         height: 14.0625rem;
-        border: 1px solid white;
     }
     .img5 img{
         width: 100%;
@@ -391,7 +385,6 @@ top: 0;
         width: 54.5%;
         height: 28.75rem;
         margin-top: 1%;
-        border: 1px solid rgb(156, 143, 143);
     }
     .img6 img{
         width: 100%;
@@ -403,7 +396,6 @@ top: 0;
         margin-top: 1%;
         width: 22%;
         height: 225px;
-        border: 1px solid white;
     }
     .img7 img{
         width: 100%;
@@ -416,7 +408,6 @@ top: 0;
         margin-top: 1%;
         width: 22%;
         height: 225px;
-        border: 1px solid white;
     }
     .img8 img{
         width: 100%;
@@ -429,7 +420,6 @@ top: 0;
         margin-top: 0.5%;
         width: 22%;
         height: 225px;
-        border: 1px solid white;
     }
     .img9 img{
         width: 100%;
@@ -442,7 +432,6 @@ top: 0;
         margin-top: 0.5%;
         width: 22%;
         height: 225px;
-        border: 1px solid white;
     }
     .img10 img{
         width: 100%;
